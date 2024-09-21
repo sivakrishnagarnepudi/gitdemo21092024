@@ -1,1 +1,7 @@
 Requisition
+Jobs
+Candidates
+Submission
+Interviews
+ResourcePool
+PermPlacement
