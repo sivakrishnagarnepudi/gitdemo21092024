@@ -6,3 +6,5 @@ Interviews
 ResourcePool
 PermPlacement
 HelloWorld
+
+Neoteric Smart system
